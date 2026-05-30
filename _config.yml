@@ -1,0 +1,10 @@
+title: Outline OCR Notes
+description: Hierarchical note-taking, Bible study & prayer journaling
+theme: jekyll-theme-cayman
+permalink: /:title/
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
